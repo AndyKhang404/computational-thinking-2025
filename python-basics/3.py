@@ -1,0 +1,5 @@
+s = input("Input a string: ")
+print("Length:", len(s))
+print("Uppercase:", s.upper())
+print("Lowercase:", s.lower())
+print("Reversed:", "".join(reversed(s)))
